@@ -9,7 +9,6 @@
 6) <a href="#">Riassunto Progettazione di dettaglio</a>
 7) <a href="#">Riassunto Verifica e Validazione</a>
 8) <a href="#">Domande da orale con risposte</a>
-9) <a href="Riassunto_Slide_1-3.pdf">Riassunto Prime Tre Lezioni delle Slide</a>
 
 ## Descrizione e fonti
 Alcuni riassunti tratti dal materiale del corso di Informatica di Pisa "Ingegneria del Software A.A. 2019-2020" 
