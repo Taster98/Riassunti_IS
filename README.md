@@ -7,7 +7,7 @@
 4) <a href="Architetture_software_e_progettazione_di_dettaglio___riassunto.pdf">Riassunto Architetture software</a>
 5) <a href="#">Riassunto Principi di Buona Progettazione</a>
 6) <a href="#">Riassunto Progettazione di dettaglio</a>
-7) <a href="#">Riassunto Verifica e Validazione</a>
+7) <a href="Riassunto Testing e Validazione.pdf">Riassunto Verifica e Validazione (manca un pezzetto ancora)</a>
 8) <a href="#">Domande da orale con risposte</a>
 
 ## Descrizione e fonti
