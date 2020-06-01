@@ -6,7 +6,7 @@
 3) <a href="Riassunto_Libro_Parte_1.pdf">Riassunto Processo e Metodologia Software (+ Agile)</a>
 4) <a href="Architetture_software_e_progettazione_di_dettaglio___riassunto.pdf">Riassunto Architetture software</a>
 5) <a href="Riassunto_Buona_Progettazione.pdf">Riassunto Principi di Buona Progettazione</a>
-6) <a href="Riassunto Testing e Validazione.pdf">Riassunto Verifica e Validazione (manca un pezzetto ancora)</a>
+6) <a href="Riassunto Testing e Validazione.pdf">Riassunto Verifica e Validazione</a>
 7) <a href="#">Domande da orale con risposte</a>
 
 ## Descrizione e fonti
